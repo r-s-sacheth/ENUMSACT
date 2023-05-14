@@ -11,7 +11,7 @@ Make sure nmap and gobuster are installed
 
 git clone https://github.com/r-s-sacheth/ENUMSACT/
 
-cd ENUMSACT
+#cd ENUMSACT
 
 chmod +x enumsact.sh
 
