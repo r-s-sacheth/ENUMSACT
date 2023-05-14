@@ -1,7 +1,7 @@
 # ENUMSACT
 
 This tool is created for Script Kiddies by a SCRIPT KIDDIE (●'◡'●).
-
+# NMAP && GOBUSTER
 Make sure nmap and gobuster are installed
 
 # INSTALLATION
