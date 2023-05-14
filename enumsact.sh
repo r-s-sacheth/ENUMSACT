@@ -108,6 +108,6 @@ elif [[ $first_value == 6 ]];then
 	ftp $ip
 
 else
-	echo "\nInvalid Input\n"
+	printf "\nInvalid Input\n"
 fi
 
