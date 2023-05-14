@@ -2,7 +2,7 @@
 
 This tool is created for Script Kiddies by a SCRIPT KIDDIE (●'◡'●).
 
-
+Make sure nmap and gobuster are installed
 
 # INSTALLATION
 
