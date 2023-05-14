@@ -7,7 +7,7 @@ Make sure nmap and gobuster are installed
 # INSTALLATION
 
 
-clone this repository
+
 
 git clone https://github.com/r-s-sacheth/ENUMSACT/
 
