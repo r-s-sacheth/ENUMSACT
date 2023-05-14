@@ -13,7 +13,7 @@ printf " 	   		      _____ _   _ _   _ __  __ ____    _    ____ _____
 
 
 
-printf "\nWhat you want to use?\n 1) Basic scanning \n 2) nmap \n 3) gobuster \n 4) gobuster advanced \n 5) ssh \n 6) ftp"
+printf "\nWhat you want to use?\n 1) nmap & gobuster \n 2) nmap \n 3) gobuster \n 4) gobuster advanced \n 5) ssh \n 6) ftp"
 printf "\nValue: "
 
 read first_value
