@@ -11,7 +11,7 @@ ENUMSACT is a Bash script designed to assist in basic security assessments by pr
 
 1. Clone the repository:
    ```bash
-   https://github.com/r-s-sacheth/ENUMSACT.git
+   git clone https://github.com/r-s-sacheth/ENUMSACT.git
 2. Navigate to the directory
    ```bash
    cd ENUMSACT
