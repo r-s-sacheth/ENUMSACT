@@ -2,10 +2,10 @@
 ENUMSACT is a Bash script designed to assist in basic security assessments by providing a menu-driven interface for common enumeration tasks. It offers functionalities for network scanning, web directory enumeration, SSH connection, and FTP connection.
 
 ## Features
-Conduct network scans using Nmap.
-Perform web directory enumeration with Gobuster.
-Initiate SSH connections.
-Establish FTP connections.
+- Conduct network scans using Nmap.
+- Perform web directory enumeration with Gobuster.
+- Initiate SSH connections.
+- Establish FTP connections.
 
 ### USAGE
 
